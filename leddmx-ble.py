@@ -1,6 +1,5 @@
 import asyncio
 from bleak import BleakScanner, BleakClient
-# from bleak.backends.device import BLEDevice
 import logging
 import argparse
 
