@@ -22,7 +22,7 @@ $ python leddmx-ble.py --status off
 $ python leddmx-ble.py --status on
 ```
 
-> Tip: After discovery you can hardcode your lamps addresses so you don't have to run the discover service everytime and goes way faster. 
+> Tip: After discovery you can hardcode your lamps addresses so you don't have to run the discover process everytime and goes way faster. 
 
 ### License
 MIT 2024\
