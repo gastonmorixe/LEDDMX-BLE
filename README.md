@@ -2,7 +2,7 @@
 
 `LEDDMX-00-0000` BLE Python Script 
 
-I have this led light that is controlled using the `LED LAMP` App.
+I have this led light that is controlled using the `LED LAMP` App by Shenzhen Zhongji Technology Co., Ltd. [Andriod App](https://play.google.com/store/apps/details?id=com.ledlamp) [iOS App Store](https://apps.apple.com/us/app/led-lamp/id1449109039)
 
 I didn't find anyone with this RGB LED BAR LIGHT and I don't know the chip either, but I was able to reverse engineer the Bluetooth BLE packages and get the commands to control it.
 
